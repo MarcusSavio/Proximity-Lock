@@ -1,0 +1,19 @@
+Title: Proximity Lock System Using Soft AP on ESP8266 for Door Control
+
+Abstract:
+
+In this project, we present a proximity lock system designed for door access control, utilizing the Soft Access Point (Soft AP) feature of the ESP8266 microcontroller. The system aims to enhance security and convenience by providing a wireless and proximity-based mechanism for locking and unlocking doors.
+
+The ESP8266 microcontroller is a cost-effective and versatile platform known for its Wi-Fi capabilities, making it suitable for Internet of Things (IoT) applications. By leveraging the Soft AP mode, the ESP8266 can act as an access point, enabling devices such as smartphones or tablets to connect directly to it without requiring a traditional Wi-Fi network infrastructure.
+
+The proximity lock system consists of an ESP8266 module interfaced with a door lock mechanism. Users can interact with the lock system through a dedicated mobile application. When a user approaches the door, the system detects their presence using proximity sensors or Bluetooth Low Energy (BLE) beacons. Upon verification of the user's credentials or proximity, the ESP8266 triggers the door lock to either unlock or lock the door accordingly.
+
+Key features of the proximity lock system include:
+1. Soft AP functionality of ESP8266 for wireless connectivity.
+2. Integration of proximity sensors or BLE beacons for user detection.
+3. Secure authentication and authorization mechanisms through the mobile application.
+4. Real-time status monitoring and control of the door lock.
+
+The system offers benefits such as increased security, remote access control, and reduced dependency on physical keys or cards. It is suitable for both residential and commercial applications where secure and flexible door access management is required.
+
+Overall, the proximity lock system demonstrates the potential of using IoT technologies like the ESP8266 with Soft AP mode to create smart and efficient solutions for door control and access management.
